@@ -2,5 +2,5 @@
 ## Attack Examples on Baidu Cloud API
 ![Results](https://github.com/RYC-98/MuMoDIG/blob/main/cloud.png) 
 
-## Codes reference
+## Codes Reference
 Thanks to the selfless contribution of previous researcher, our codes benefit a lot from [TransferAttack](https://github.com/Trustworthy-AI-Group/TransferAttack)
